@@ -9,13 +9,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
  - Save voice notes to localStorage.
  - Display all of the saved notes and give the option to either Listen to the Notes or delete them.
 
-
-
-
-![Voice Note App](assets/img/vna-1.gif)
-<br>
-
-__Project Status - Completed: 05/31/2018__
+__Project Status -
 
 [Demo - Click Here](https://www.dkmitt.com/mycoding/voice-note-app/index.html) - __Best Used with Chrome__
 
@@ -30,12 +24,11 @@ Most APIs that require user permission don't work on non-secure hosts. Make sure
 ### Table of Contents
 
   -  Description
-  -  What I Learned From The Exercise
   -  Website Technologies Used
   -  How to Use This App
   -  File and Directory Structure
   -  Resources
-  -  Revision History  
+
 <br>
 
 ----
@@ -52,14 +45,6 @@ The second is __"Speech Synthesis"__ (aka text-to-speech, or tts) that involves 
 
 
 ----
-
-
-### What I Learned From The Exercise
-- To work with the Web Speech API; speech recognition, and speech synthesis.
-<br>
-
-----
-
 
 ### Website Technologies Used
 
@@ -150,15 +135,3 @@ Article from [tutorialzine Converting from Speech to Text with JavaScript](https
  
 Reference how to work with the Web Speech API - [MDN Web Docs Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 <br>
-
-----
-
-### Revision History 
-
-Description of revisions - __Completed: 05/31/2018__
-
-  - [x] Dev - file and directory structure updated - 05/30/2018
-  - [x] Dev - starting code - 04/06/2018
-  - [x] Dev - styling update - 05/30/2018
-  - [x] Dev - completed code - 05/30/2018
-  - [x] Dev - readme update - 06/01/2018
